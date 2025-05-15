@@ -1,0 +1,7 @@
+path: C:\Users\LENOVO\Desktop\Yapayzeka\Ders8\CV\dataset
+train: images 
+val: images 
+
+nc: 1
+names: 
+    0: plaka
